@@ -1,3 +1,11 @@
 .member-name {
     font-size: 26px;
 }
+
+.harf {
+    color: #555;
+}
+
+.harf:hover {
+    color: black;
+}
